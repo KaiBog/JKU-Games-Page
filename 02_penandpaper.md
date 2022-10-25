@@ -51,6 +51,19 @@ This is what we have come up with so far:
 | Duration | 5 hours |
 | Characters | chose from a selection of characters |
 
+### 18:00
+
+| Adventure | This Adventure has no Name yet  |
+|---|---|
+| Language |  German |
+| Game-Master |  Daniel (KnightRave#2587) |
+| Rulebook | Monster of the Week |
+| Level | Any (Beginner friendly)  |
+| Description | tba - gonna be gloomy because spooky halloween |
+| Players | 3-5 players |
+| Duration | 5-6 hours |
+| Characters | chose from a selection of characters |
+
 ### 23:00
 
 | Adventure | The Price of Beauty  |
@@ -70,7 +83,7 @@ This is what we have come up with so far:
 | Adventure | This Adventure has no Name yet  |
 |---|---|
 | Language |  German/English |
-| Game-Master |  Oscar |
+| Game-Master |  Oscar (Oscar#3927) |
 | Rulebook | D&D 5e |
 | Level | Any (Beginner friendly)  |
 | Description | tba |
